@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Породы кошек</string>
+    <string name="cat_1">Мейн-кун</string>
+    <string name="cat_2">Шотландская вислоухая</string>
+    <string name="cat_3">Британская короткошерстная</string>
+    <string name="cat_4">Бенгальская</string>
+    <string name="cat_5">Сиамская</string>
+    <string name="cat_6">Абиссинская</string>
+    <string name="cat_7">Ориентал</string>
+    <string name="cat_8">Русская голубая</string>
+    <string name="cat_9">Сибирская</string>
+</resources>
